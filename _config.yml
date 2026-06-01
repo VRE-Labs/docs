@@ -1,0 +1,6 @@
+title: VRE Labs Docs
+description: Documentation site for VRE Labs
+remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - jekyll-remote-theme
