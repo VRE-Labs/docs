@@ -1,6 +1,7 @@
 title: Obscura Documentation
 description: Documentation site for Obscura
 remote_theme: just-the-docs/just-the-docs
+color_scheme: dark
 
 plugins:
   - jekyll-remote-theme
