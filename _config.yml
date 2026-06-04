@@ -5,6 +5,9 @@ color_scheme: dark
 url: "https://docs.signalbyvre.com"
 baseurl: ""
 
+just_the_docs:
+  custom_css:
+    - custom.css
 footer_content: "Obscura Documentation • Stage your persona. Own your privacy."
 
 plugins:
