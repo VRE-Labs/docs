@@ -4,7 +4,8 @@ remote_theme: just-the-docs/just-the-docs
 color_scheme: dark
 url: "https://docs.signalbyvre.com"
 baseurl: ""
-footer_content: ""
+
+footer_content: "Obscura Documentation • Stage your persona. Own your privacy."
 
 plugins:
   - jekyll-remote-theme
